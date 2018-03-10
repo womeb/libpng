@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pngunknown.dir/contrib/libtests/pngunknown.c.o  -o pngunknown -rdynamic libpng16.so.16.35.0 -lz -lm -Wl,-rpath,/home/predator/Documents/Project/temp/libpng 

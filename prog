@@ -1,0 +1,83 @@
+Scanning dependencies of target png-fix-itxt
+[  1%] Building C object CMakeFiles/png-fix-itxt.dir/contrib/tools/png-fix-itxt.c.o
+[  2%] Linking C executable png-fix-itxt
+[  2%] Built target png-fix-itxt
+Scanning dependencies of target genfiles
+[  4%] Generating pnglibconf.c
+[  5%] Generating pnglibconf.out
+[  7%] Generating pnglibconf.h
+[  8%] Generating scripts/sym.out
+[  9%] Generating libpng.sym
+[ 11%] Generating scripts/vers.out
+[ 12%] Generating libpng.vers
+[ 14%] Generating pngprefix.h
+[ 15%] Generating scripts/intprefix.out
+[ 16%] Generating scripts/pnglibconf.c
+[ 18%] Generating scripts/prefix.out
+[ 19%] Generating scripts/symbols.out
+[ 21%] Generating scripts/symbols.chk
+[ 21%] Built target genfiles
+Scanning dependencies of target png
+[ 22%] Building C object CMakeFiles/png.dir/png.c.o
+[ 23%] Building C object CMakeFiles/png.dir/pngerror.c.o
+[ 25%] Building C object CMakeFiles/png.dir/pngget.c.o
+[ 26%] Building C object CMakeFiles/png.dir/pngmem.c.o
+[ 28%] Building C object CMakeFiles/png.dir/pngpread.c.o
+[ 29%] Building C object CMakeFiles/png.dir/pngread.c.o
+[ 30%] Building C object CMakeFiles/png.dir/pngrio.c.o
+[ 32%] Building C object CMakeFiles/png.dir/pngrtran.c.o
+[ 33%] Building C object CMakeFiles/png.dir/pngrutil.c.o
+[ 35%] Building C object CMakeFiles/png.dir/pngset.c.o
+[ 36%] Building C object CMakeFiles/png.dir/pngtrans.c.o
+[ 38%] Building C object CMakeFiles/png.dir/pngwio.c.o
+[ 39%] Building C object CMakeFiles/png.dir/pngwrite.c.o
+[ 40%] Building C object CMakeFiles/png.dir/pngwtran.c.o
+[ 42%] Building C object CMakeFiles/png.dir/pngwutil.c.o
+[ 43%] Building C object CMakeFiles/png.dir/intel/intel_init.c.o
+[ 45%] Building C object CMakeFiles/png.dir/intel/filter_sse2_intrinsics.c.o
+[ 46%] Linking C shared library libpng16.so
+[ 52%] Built target png
+Scanning dependencies of target pngfix
+[ 53%] Building C object CMakeFiles/pngfix.dir/contrib/tools/pngfix.c.o
+[ 54%] Linking C executable pngfix
+[ 54%] Built target pngfix
+Scanning dependencies of target pngimage
+[ 56%] Building C object CMakeFiles/pngimage.dir/contrib/libtests/pngimage.c.o
+[ 57%] Linking C executable pngimage
+[ 57%] Built target pngimage
+Scanning dependencies of target pngunknown
+[ 59%] Building C object CMakeFiles/pngunknown.dir/contrib/libtests/pngunknown.c.o
+[ 60%] Linking C executable pngunknown
+[ 60%] Built target pngunknown
+Scanning dependencies of target pngvalid
+[ 61%] Building C object CMakeFiles/pngvalid.dir/contrib/libtests/pngvalid.c.o
+[ 63%] Linking C executable pngvalid
+[ 63%] Built target pngvalid
+Scanning dependencies of target png_static
+[ 64%] Building C object CMakeFiles/png_static.dir/png.c.o
+[ 66%] Building C object CMakeFiles/png_static.dir/pngerror.c.o
+[ 67%] Building C object CMakeFiles/png_static.dir/pngget.c.o
+[ 69%] Building C object CMakeFiles/png_static.dir/pngmem.c.o
+[ 70%] Building C object CMakeFiles/png_static.dir/pngpread.c.o
+[ 71%] Building C object CMakeFiles/png_static.dir/pngread.c.o
+[ 73%] Building C object CMakeFiles/png_static.dir/pngrio.c.o
+[ 74%] Building C object CMakeFiles/png_static.dir/pngrtran.c.o
+[ 76%] Building C object CMakeFiles/png_static.dir/pngrutil.c.o
+[ 77%] Building C object CMakeFiles/png_static.dir/pngset.c.o
+[ 78%] Building C object CMakeFiles/png_static.dir/pngtrans.c.o
+[ 80%] Building C object CMakeFiles/png_static.dir/pngwio.c.o
+[ 81%] Building C object CMakeFiles/png_static.dir/pngwrite.c.o
+[ 83%] Building C object CMakeFiles/png_static.dir/pngwtran.c.o
+[ 84%] Building C object CMakeFiles/png_static.dir/pngwutil.c.o
+[ 85%] Building C object CMakeFiles/png_static.dir/intel/intel_init.c.o
+[ 87%] Building C object CMakeFiles/png_static.dir/intel/filter_sse2_intrinsics.c.o
+[ 88%] Linking C static library libpng16.a
+[ 94%] Built target png_static
+Scanning dependencies of target pngtest
+[ 95%] Building C object CMakeFiles/pngtest.dir/pngtest.c.o
+[ 97%] Linking C executable pngtest
+[ 97%] Built target pngtest
+Scanning dependencies of target pngstest
+[ 98%] Building C object CMakeFiles/pngstest.dir/contrib/libtests/pngstest.c.o
+[100%] Linking C executable pngstest
+[100%] Built target pngstest

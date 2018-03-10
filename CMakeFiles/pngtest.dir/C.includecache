@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libpng/png.h
+pnglibconf.h
+/home/predator/Documents/Project/temp/libpng/pnglibconf.h
+pngconf.h
+/home/predator/Documents/Project/temp/libpng/pngconf.h
+
+/home/predator/Documents/Project/temp/libpng/pngconf.h
+limits.h
+-
+stddef.h
+-
+stdio.h
+-
+setjmp.h
+-
+time.h
+-
+
+/home/predator/Documents/Project/temp/libpng/pnglibconf.h
+
+/home/predator/Documents/Project/temp/libpng/pngtest.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+png.h
+/home/predator/Documents/Project/temp/libpng/png.h
+zlib.h
+/home/predator/Documents/Project/temp/libpng/zlib.h
+time.h
+-
+

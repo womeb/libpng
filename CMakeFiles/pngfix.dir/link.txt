@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pngfix.dir/contrib/tools/pngfix.c.o  -o pngfix -rdynamic libpng16.so.16.35.0 -lz -lm -Wl,-rpath,/home/predator/Documents/Project/temp/libpng: 
